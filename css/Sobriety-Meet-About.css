@@ -1,6 +1,6 @@
 img {
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     padding-left: 60px;
     padding-right: 60px;
     border-left: 199px;
@@ -36,9 +36,11 @@ a {
 
 p {
     color: black;
-    margin-left: 5.5%;
-    margin-right:5.5%;
-    padding: 50px;
+    margin-left: 210px;
+    margin-right:100px;
+    padding: 20px;
+    font-size: 18pt;
+    text-align: left;
 }
 
 
