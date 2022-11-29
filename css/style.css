@@ -1,0 +1,71 @@
+img {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border-left: 199px;
+    border-right:  199px;
+    
+}
+
+#logo {
+    background-color: white;
+}
+
+.navbar {
+    background-color: white;
+    text-align: center;
+  
+}
+
+.nav {
+    font-family:'Segoe UI',Roboto;
+    
+}
+
+.nav-item {
+    padding: 100px;
+}
+
+a {
+    color:black;
+    font-size: 18pt;
+}
+
+
+
+p {
+    color: black;
+    margin-left: 5.5%;
+    margin-right:5.5%;
+    padding: 50px;
+}
+
+
+.flex-column {
+    margin-left: 10px;
+}
+
+.text-center {
+    justify-content: center;
+}
+
+
+
+.bottomFooter {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    margin-left: 400px;
+    margin-right: 400px;  
+    margin-top: 50px;
+}
+
+#splashScreen,#mainScreen,#favorites,#map,#crisis {
+    margin-left: 460px;
+    margin-right: 595px;
+    display: flex;
+
+}
+
+
+
